@@ -3,7 +3,7 @@ Time-varying formation control of MAS
 
 07 July, 2021 Updated
 The very first file of this project is uploaded.
-The file four_bots_CNN_DSM.slx is the simulation file for my first journal article:
+The file four_bots_CNN_DSM_7.slx is the simulation file for my first journal article:
 Fei, Y., Shi, P. and Lim, C.C., 2020. Neural network adaptive dynamic sliding mode formation control of multi-agent systems. International Journal of Systems Science, 51(11), pp.2025-2040.
 For those who are interested in the paper, there are several typos I made:
 1. Equation (39): It should be L(rho_i) - e_{xi}(0)
